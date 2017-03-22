@@ -6,6 +6,8 @@ vsftpd was is an FTP server which was created by Chris Evans and is available at
 This backdoor which was maliciously added to the archive was introduced into the vsftpd-2.3.4 2011 
 but has since been removed, thus the reason for this repository. 
 
+The diff used in this repo was taken from http://pastebin.com/AetT9sS5
+
 ## Changes
 Changes to:
 * vsftpd.conf to allow remote user login.
